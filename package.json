@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/circius/byo-yomi.git"
+    "url": "git+https://github.com/drchopinfrederic/byo-yomi-timer.git"
   },
   "keywords": [
     "timer",
@@ -18,9 +18,9 @@
   "author": "circius",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/circius/byo-yomi/issues"
+    "url": "https://github.com/drchopinfrederic/byo-yomi-timer/issues"
   },
-  "homepage": "https://github.com/circius/byo-yomi#readme",
+  "homepage": "https://github.com/drchopinfrederic/byo-yomi-timer#readme",
   "devDependencies": {
     "mithril": "^1.1.3",
     "webpack": "^3.5.5"
