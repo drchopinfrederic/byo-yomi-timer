@@ -94,6 +94,8 @@ function Clock(player, maintime, byo) {
 	this.mainClock = player.children[0];
 	this.byoClock = player.children[1];
 
+	if(this.byoN != byo[0]) this.byotime = byo[1];
+
 	this.writeClock = function (){
 		this.mainClock.innerHTML = formatMinSecs(this.maintime);
 		this.byoClock.innerHTML = formatByo([this.byoN, this.byotime]);

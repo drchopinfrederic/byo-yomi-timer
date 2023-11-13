@@ -9,7 +9,7 @@ let settings = {
 	byo: 30,
 	byoN: 5,
 
-	main_options: [5,10,15,20,30,45],
+	main_options: [0,5,10,15,20,30,45],
 	byo_options: [10,30,60],
 	byoN_options: [5,10],
 

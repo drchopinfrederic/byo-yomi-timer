@@ -33,7 +33,7 @@ const button_pause = {
             }
         }, "pause")
     }
-}
+}   //일시정지
 
 const button_exit = {
     view: function() {
@@ -45,7 +45,7 @@ const button_exit = {
             'exit'
         )
     }
-}
+} // 나가기
 
 
 const clocks = {
